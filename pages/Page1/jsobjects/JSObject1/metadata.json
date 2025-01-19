@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "678d5aaa863bf05003b3be34_33a3184c-624b-4d91-97bb-84ae76ec0c29",
+  "id": "Page1_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "chat",
+        "value": "String"
+      }
+    ]
+  }
+}
