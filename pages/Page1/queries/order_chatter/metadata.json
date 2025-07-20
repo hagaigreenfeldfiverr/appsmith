@@ -53,9 +53,9 @@
         "key": "formData.messages.data[1].content"
       }
     ],
-    "executeOnLoad": true,
     "name": "order_chatter",
     "pageId": "Page1",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
